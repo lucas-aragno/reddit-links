@@ -2,4 +2,4 @@
 
 Chrome extension to open reddit links on new tabs
 
-![demo](http://g.recordit.co/TcsUuIW21X.gif)
+![demo](http://g.recordit.co/Zj2M0cUZEn.gif)
